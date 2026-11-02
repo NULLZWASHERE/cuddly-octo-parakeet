@@ -1,0 +1,466 @@
+[
+  {
+    "id": "9ee948668b097566",
+    "log_id": "9fa4983b03794720288367fca0165bd6d145a751b1ad575ce5cbfe14fdc87940",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "wroshda",
+    "password": "30082012",
+    "password_hash": "a6bf6dda8c05ef785b8c9358eac69558b04f1b6bd2d74784364a4192b9ac7d2b",
+    "archive_hash": "b2b6d2bd44fbd110b72f42a4980a3261160556d114f25186dca87ddf66378417",
+    "pwned_at": "2026-10-29T00:47:56Z",
+    "indexed_at": "2026-10-30T16:32:05Z"
+  },
+  {
+    "id": "1ec96278802d0eaf",
+    "log_id": "920d937adef1ab898632da1c1822127f0773786e8c436bf515a20d874a06e8ef",
+    "url": "https://scratch.mit.edu/accounts/password_change/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/accounts/password_change/"
+    ],
+    "username": "lichvi raj parmar",
+    "password": "#lic1234",
+    "password_hash": "7a5025bf4f6ea3493a680fa3a3fbb45cb8230a90df1231bb9d6e1b697f329544",
+    "archive_hash": "b2b6d2bd44fbd110b72f42a4980a3261160556d114f25186dca87ddf66378417",
+    "pwned_at": "2026-10-28T22:56:19Z",
+    "indexed_at": "2026-10-30T16:32:05Z"
+  },
+  {
+    "id": "e12065844b9e2975",
+    "log_id": "4ac9c2c0fa840e99f1c9fc52a14cce3520e531ec756f70bb56ac9bf61396ebc9",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "aviagar",
+    "password": "avsc40",
+    "password_hash": "3ffd81bb9dcbbfb0460906769e02e52dfa9d4a3396d1c710067f990a4cd06c23",
+    "archive_hash": "7d625371975f2902e88df292750e29de75ffc42861295985717335f499a6b254",
+    "pwned_at": "2026-10-28T16:26:45Z",
+    "indexed_at": "2026-10-30T16:31:26Z"
+  },
+  {
+    "id": "fc8d50f2d8747db1",
+    "log_id": "e274faddf8ed933cd448127cc0907950583cc497b51a22d5d5334af09ff54de9",
+    "url": "https://scratch.mit.edu/projects/editor/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/projects/editor/"
+    ],
+    "username": "tarun82786",
+    "password": "Tarun@82786",
+    "password_hash": "fff3716a34a76c2b67203b142c5b90f79806fbd3837f3378772f384d24a56cd8",
+    "archive_hash": "7d625371975f2902e88df292750e29de75ffc42861295985717335f499a6b254",
+    "pwned_at": "2026-10-28T14:32:56Z",
+    "indexed_at": "2026-10-30T16:31:26Z"
+  },
+  {
+    "id": "030d152119df47d8",
+    "log_id": "7dddd422af19a5187210e8302a8e30e419f2a1cfeefbf5304bd911b4ced31cf7",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "oliviaifeyinwa",
+    "password": "$1234Scratch",
+    "password_hash": "eccff696ba60348e297397d2c4502167de97d5870b8468bff47328ab994497ca",
+    "archive_hash": "b2b6d2bd44fbd110b72f42a4980a3261160556d114f25186dca87ddf66378417",
+    "pwned_at": "2026-10-28T07:39:09Z",
+    "indexed_at": "2026-10-30T16:32:05Z"
+  },
+  {
+    "id": "c6b4c6cc5172c36e",
+    "log_id": "7dddd422af19a5187210e8302a8e30e419f2a1cfeefbf5304bd911b4ced31cf7",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "jessyugboh",
+    "password": "@1234Scratch",
+    "password_hash": "0d0fb5518473d5fbc04beacd6a503edf5c94151e244d5508dd2d6be33c520255",
+    "archive_hash": "b2b6d2bd44fbd110b72f42a4980a3261160556d114f25186dca87ddf66378417",
+    "pwned_at": "2026-10-28T07:39:09Z",
+    "indexed_at": "2026-10-30T16:32:05Z"
+  },
+  {
+    "id": "c6c6d88157eecdc5",
+    "log_id": "f6c92157af13bb1d07ce10cda6e761da23490b88bacbe95b60cc507c93d12cdd",
+    "url": "https://scratch.mit.edu/projects/editor/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/projects/editor/"
+    ],
+    "username": "ankitkumar402",
+    "password": "z@h8Q8..FrX@itV",
+    "password_hash": "5d0f63539a4810ab9e0254a7cad9d1f8f1a685d9115ec2e762c5149760474c22",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-28T02:06:19Z",
+    "indexed_at": "2026-10-29T21:22:46Z"
+  },
+  {
+    "id": "fb646b419857f009",
+    "log_id": "773d63b6c0091edaad70100f7559cb9dbdf7164162af1bb8eec34a6129909c01",
+    "url": "https://scratch.mit.edu/join",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/join"
+    ],
+    "username": "mohan73743",
+    "password": "madhu123",
+    "password_hash": "ad0cdb814cef98d6f2f66599adb384d03da58c90bc0848d5e8588195a0297bfd",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-28T00:05:55Z",
+    "indexed_at": "2026-10-29T21:22:46Z"
+  },
+  {
+    "id": "b34a067c19284194",
+    "log_id": "9417cb8d6ca52e68877eda943092fc8b92311fa5d14e3133840ed668c00299fe",
+    "url": "https://scratch.mit.edu/join",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/join"
+    ],
+    "username": "6b222288",
+    "password": "Asjad.222288@2012",
+    "password_hash": "4f06c839c8da31f58dd53961f52d32904e334c97e03c996d10cc016ee7f14775",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T22:59:10Z",
+    "indexed_at": "2026-10-29T21:22:45Z"
+  },
+  {
+    "id": "2d96b1a1639d4794",
+    "log_id": "f75ad3772359dd5ad6f275fd609f49fe7bd45b4323139d08f84899ed92c448a7",
+    "url": "https://scratch.mit.edu/join",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/join"
+    ],
+    "username": "rishiaggarwal",
+    "password": "rachit14",
+    "password_hash": "23e9e8189c46cd65089f06c622a78f482c8606ac7354e7741072dfc1fdaf0067",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T17:24:20Z",
+    "indexed_at": "2026-10-29T21:22:43Z"
+  },
+  {
+    "id": "bfa04e0b8d7edf30",
+    "log_id": "fce36bda00a57df6ef6c250ab4f7671d49004b7fafa6278d56a619cc38c55de4",
+    "url": "https://scratch.mit.edu/projects/editor/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/projects/editor/"
+    ],
+    "username": "florvaldez#",
+    "password": "N1nga12345",
+    "password_hash": "cd0e17db38bff8ce5ccdce86fb949caf5f7e94d3bc3ec1dabd42f4db760b2ba0",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T14:37:30Z",
+    "indexed_at": "2026-10-29T21:22:43Z"
+  },
+  {
+    "id": "b404130ef1a03c9b",
+    "log_id": "bd9f0406d36958d262800b1677074faa02768eac4a3ed75070ae6fde20fc4178",
+    "url": "https://scratch.mit.edu/educators/register",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/educators/register"
+    ],
+    "username": "prof_ferchu",
+    "password": "scratch7241",
+    "password_hash": "4126536f8a63db8c63dea11b2e0c38bf44aa63919b12274b7ab64d826e776e67",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T10:47:29Z",
+    "indexed_at": "2026-10-29T21:22:43Z"
+  },
+  {
+    "id": "6772ce6b230c403e",
+    "log_id": "21f9dabdf041b48ea57d4cd746da5ab767d8f81f0e1d4e8eebe568b05b860325",
+    "url": "https://scratch.mit.edu/projects/editor/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/projects/editor/"
+    ],
+    "username": "ayashibukawa",
+    "password": "21102011",
+    "password_hash": "9f2e211c3504096683f16facf83039ac1ff0a16222f3c04ab0991081272d7af3",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T09:18:27Z",
+    "indexed_at": "2026-10-29T21:22:43Z"
+  },
+  {
+    "id": "93ee73b37f3d683f",
+    "log_id": "21f9dabdf041b48ea57d4cd746da5ab767d8f81f0e1d4e8eebe568b05b860325",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "aya_6d",
+    "password": "21102011",
+    "password_hash": "9f2e211c3504096683f16facf83039ac1ff0a16222f3c04ab0991081272d7af3",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T09:18:27Z",
+    "indexed_at": "2026-10-29T21:22:43Z"
+  },
+  {
+    "id": "cd34df2bda541a56",
+    "log_id": "5deb3013a0d2dbcf6577e5d7c4526e2592aa6a0bb317334a64ac2ab02cf43d49",
+    "url": "https://scratch.mit.edu/accounts/login/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/accounts/login/"
+    ],
+    "username": "hb25268214",
+    "password": "04042012long@",
+    "password_hash": "b00f46c0cf14c9539adc4fe9f774ea27afe7694c4b51f16cd05be7c588ab56a9",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T05:42:35Z",
+    "indexed_at": "2026-10-29T21:22:46Z"
+  },
+  {
+    "id": "324f0410f2cf70ba",
+    "log_id": "b430dceb64eedc03ddd81e5caf88576a2369661d0a45a92f5cfd02f017149b14",
+    "url": "https://scratch.mit.edu",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "9913333911",
+    "archive_hash": "d715cf460135f003f6d13add89c91dd284a78549d71cac2f5e20c9fbd50dcf8a",
+    "pwned_at": "2026-10-27T05:41:39Z",
+    "indexed_at": "2026-10-30T16:31:42Z"
+  },
+  {
+    "id": "c2b22229a8a20473",
+    "log_id": "b430dceb64eedc03ddd81e5caf88576a2369661d0a45a92f5cfd02f017149b14",
+    "url": "https://scratch.mit.edu",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "9913333911",
+    "password": "None",
+    "password_hash": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91",
+    "archive_hash": "d715cf460135f003f6d13add89c91dd284a78549d71cac2f5e20c9fbd50dcf8a",
+    "pwned_at": "2026-10-27T05:41:39Z",
+    "indexed_at": "2026-10-30T16:31:42Z"
+  },
+  {
+    "id": "462f60930c9eeb54",
+    "log_id": "dd0dbd72a288522eb43798ddaa58b441fca61069333cfa890a2c7c0f9c3b9ef7",
+    "url": "https://scratch.mit.edu/projects/editor/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/projects/editor/"
+    ],
+    "username": "thenext2009",
+    "password": "bao11092009",
+    "password_hash": "511647649bd1c8cd20ae7d3e5f77f63f59642a9573cef426c002c8b5a60c047f",
+    "archive_hash": "9f13c3f2f437628f286be5581d2f2fe34c08ed46ec0720a1a6f845289e85c8d2",
+    "pwned_at": "2026-10-27T01:38:52Z",
+    "indexed_at": "2026-10-30T17:18:09Z"
+  },
+  {
+    "id": "63ef75eb7086a8ac",
+    "log_id": "944a66d61a2e0cec2cb78fdb193cf3ffe8fb5c82510cb054891c909ebe79e6dc",
+    "url": "https://scratch.mit.edu/accounts/password_reset/MTU2MjI0NTI3/6vf-22605e189dc2477626ff/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/accounts/password_reset/MTU2MjI0NTI3/6vf-22605e189dc2477626ff/"
+    ],
+    "username": "kapook_studio",
+    "password": "kapook987654321",
+    "password_hash": "d33f9cf2a9e53713220facb89547366c68d59284fa5154aa526040a75f4ba144",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T01:36:01Z",
+    "indexed_at": "2026-10-29T21:22:46Z"
+  },
+  {
+    "id": "97c06beeb9ff46ea",
+    "log_id": "944a66d61a2e0cec2cb78fdb193cf3ffe8fb5c82510cb054891c909ebe79e6dc",
+    "url": "https://scratch.mit.edu/accounts/password_reset_done/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/accounts/password_reset_done/"
+    ],
+    "username": "kapook_studio",
+    "password": "kapook987654321",
+    "password_hash": "d33f9cf2a9e53713220facb89547366c68d59284fa5154aa526040a75f4ba144",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T01:36:01Z",
+    "indexed_at": "2026-10-29T21:22:46Z"
+  },
+  {
+    "id": "b9f881642cdff295",
+    "log_id": "944a66d61a2e0cec2cb78fdb193cf3ffe8fb5c82510cb054891c909ebe79e6dc",
+    "url": "https://scratch.mit.edu/accounts/password_reset/MTQ4NDAyMjQ2/6u2-6bc7b0013a8006209f39/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/accounts/password_reset/MTQ4NDAyMjQ2/6u2-6bc7b0013a8006209f39/"
+    ],
+    "username": "loppo-233",
+    "password": "opopop3310",
+    "password_hash": "1178309b2d0be908b00aaf0e15850f71693d17924c0ba028806ed36e6f4ce562",
+    "archive_hash": "0c23c334cd7917dbf417dd47b11240092cb09788c62c4b521b84e30053d1bd7b",
+    "pwned_at": "2026-10-27T01:36:01Z",
+    "indexed_at": "2026-10-29T21:22:46Z"
+  },
+  {
+    "id": "931446e82c76407d",
+    "log_id": "45a2aaaf55a21eedaa2135bee1684f201c69ae000eec22c8ab3bc381ee9bf043",
+    "url": "https://scratch.mit.edu/join",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "path": [
+      "/join"
+    ],
+    "username": "john12390",
+    "password": "coding9841",
+    "password_hash": "df9f63bc36591b9af28f8cf97499f54baf973b711894fc0a0949bb154569aec4",
+    "archive_hash": "d715cf460135f003f6d13add89c91dd284a78549d71cac2f5e20c9fbd50dcf8a",
+    "pwned_at": "2026-10-26T20:22:56Z",
+    "indexed_at": "2026-10-30T16:31:42Z"
+  },
+  {
+    "id": "31c4b86cb9413e14",
+    "log_id": "adf9de099048e11849b1a9125e07b77270789322275dba165ba179026f4edf05",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "saha_swagato84",
+    "archive_hash": "d715cf460135f003f6d13add89c91dd284a78549d71cac2f5e20c9fbd50dcf8a",
+    "pwned_at": "2026-10-26T19:10:02Z",
+    "indexed_at": "2026-10-30T16:31:42Z"
+  },
+  {
+    "id": "433e24bfab1c4ca3",
+    "log_id": "adf9de099048e11849b1a9125e07b77270789322275dba165ba179026f4edf05",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "8967621735",
+    "archive_hash": "d715cf460135f003f6d13add89c91dd284a78549d71cac2f5e20c9fbd50dcf8a",
+    "pwned_at": "2026-10-26T19:10:02Z",
+    "indexed_at": "2026-10-30T16:31:42Z"
+  },
+  {
+    "id": "bfafab18f7972aa6",
+    "log_id": "adf9de099048e11849b1a9125e07b77270789322275dba165ba179026f4edf05",
+    "url": "https://scratch.mit.edu/",
+    "domain": [
+      "mit.edu"
+    ],
+    "subdomain": [
+      "scratch.mit.edu"
+    ],
+    "username": "saha_swagato84",
+    "password": "None",
+    "password_hash": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91",
+    "archive_hash": "d715cf460135f003f6d13add89c91dd284a78549d71cac2f5e20c9fbd50dcf8a",
+    "pwned_at": "2026-10-26T19:10:02Z",
+    "indexed_at": "2026-10-30T16:31:42Z"
+  }
+]
